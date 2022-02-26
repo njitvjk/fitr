@@ -1,7 +1,7 @@
 # Project -Fitr
 This project is a prototype built with the help of axureRP tool.HTML pages are available in this repository. This is a zero Code hack , the prototype is 100% complete.
 ### Project Task
-      1.  Total Pages built -11
+      1.    Total Pages built -11
             Landing Page,Exercise Page,About Us, Contact Page, LogIn, SignUp, Favoruites, Workout Program and Update Profile.
       2.    UX design model for Pages- Z layout 
       3.    Credits given to the website from where images are taken
