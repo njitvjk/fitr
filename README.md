@@ -12,7 +12,10 @@ This project is a prototype built with the help of axureRP tool.HTML pages are a
 #### Vedio 
 https://youtu.be/sfiaslqOg-8
 
-vedio shows all validation performed.  
+vedio shows all validation performed. 
+
+#### Application hosted in GIT
+ https://njitvjk.github.io/fitr/
 
 #### Axure Link to test the prototype
 https://e8pb1e.axshare.com/#id=41kcsd&p=home </br>
