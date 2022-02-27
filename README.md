@@ -8,6 +8,7 @@ This project is a prototype built with the help of axureRP tool.HTML pages are a
       4.    Validation in all forms tested 
       5.    Navigation to Pages works
       6.    GIT - Repository created, 4 branches and colloborator added
+      7.    Project hosted on GitHub
       
 #### Vedio 
 https://youtu.be/sfiaslqOg-8
